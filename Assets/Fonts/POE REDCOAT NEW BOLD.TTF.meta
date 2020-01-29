@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fc1d21b460d087c4da239139075277f5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: POE Redcoat New
+  fontNames:
+  - POE Redcoat New
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f1d1341ec2891c34b9a30b1977ce963d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
